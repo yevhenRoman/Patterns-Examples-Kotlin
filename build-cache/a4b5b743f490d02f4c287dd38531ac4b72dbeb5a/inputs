@@ -1,0 +1,7 @@
+COMMAND=PREDEX_LIBRARY
+FILE_PATH=/Users/yroma/Documents/Just Food/.gradle/caches/modules-2/files-2.1/com.google.dagger/dagger/2.6/a2e0fb833ba928689fb8b8d9cc92a81298da7c37/dagger-2.6.jar
+FILE_HASH=a2e0fb833ba928689fb8b8d9cc92a81298da7c37
+BUILD_TOOLS_REVISION=25.0.2
+JUMBO_MODE=false
+OPTIMIZE=true
+MULTI_DEX=true

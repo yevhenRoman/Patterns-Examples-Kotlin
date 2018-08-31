@@ -1,0 +1,7 @@
+COMMAND=PREDEX_LIBRARY
+FILE_PATH=/Users/yroma/Documents/build-cache/9a330dc915f61d566e772887cb2bfadc90759d54/output/jars/classes.jar
+FILE_HASH=b266c8faa5af72e579b9da36ef35053ffed6ac64
+BUILD_TOOLS_REVISION=25.0.2
+JUMBO_MODE=false
+OPTIMIZE=true
+MULTI_DEX=true

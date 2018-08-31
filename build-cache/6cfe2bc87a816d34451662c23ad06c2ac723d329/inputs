@@ -1,0 +1,7 @@
+COMMAND=PREDEX_LIBRARY
+FILE_PATH=/Users/yroma/Documents/Just Food/.gradle/caches/modules-2/files-2.1/com.github.tony19/logback-android-core/1.1.1-4/cd422166cca6c3d930309a6685ea3f40c91942ce/logback-android-core-1.1.1-4.jar
+FILE_HASH=cd422166cca6c3d930309a6685ea3f40c91942ce
+BUILD_TOOLS_REVISION=25.0.2
+JUMBO_MODE=false
+OPTIMIZE=true
+MULTI_DEX=true

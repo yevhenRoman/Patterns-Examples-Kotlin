@@ -1,0 +1,7 @@
+COMMAND=PREDEX_LIBRARY
+FILE_PATH=/Users/yroma/Documents/Just Food/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.0.9/a5aad74623ade11162dd53cdf0645a51b12221a0/rxjava-2.0.9.jar
+FILE_HASH=a5aad74623ade11162dd53cdf0645a51b12221a0
+BUILD_TOOLS_REVISION=25.0.2
+JUMBO_MODE=false
+OPTIMIZE=true
+MULTI_DEX=true

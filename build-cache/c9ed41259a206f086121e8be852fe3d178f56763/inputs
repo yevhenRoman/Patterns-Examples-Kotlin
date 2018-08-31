@@ -1,0 +1,7 @@
+COMMAND=PREDEX_LIBRARY
+FILE_PATH=/Users/yroma/Documents/Just Food/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/annotations/3.0.1/fc019a2216218990d64dfe756e7aa20f0069dea2/annotations-3.0.1.jar
+FILE_HASH=fc019a2216218990d64dfe756e7aa20f0069dea2
+BUILD_TOOLS_REVISION=25.0.2
+JUMBO_MODE=false
+OPTIMIZE=true
+MULTI_DEX=true

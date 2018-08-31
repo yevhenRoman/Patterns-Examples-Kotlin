@@ -1,0 +1,7 @@
+COMMAND=PREDEX_LIBRARY
+FILE_PATH=/Users/yroma/Documents/Just Food/.gradle/caches/modules-2/files-2.1/com.jakewharton.picasso/picasso2-okhttp3-downloader/1.1.0/f4f77eb62269c977c154765cd01587eda6488273/picasso2-okhttp3-downloader-1.1.0.jar
+FILE_HASH=f4f77eb62269c977c154765cd01587eda6488273
+BUILD_TOOLS_REVISION=25.0.2
+JUMBO_MODE=false
+OPTIMIZE=true
+MULTI_DEX=true

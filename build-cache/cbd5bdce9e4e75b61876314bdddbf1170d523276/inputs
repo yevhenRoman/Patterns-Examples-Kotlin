@@ -1,0 +1,7 @@
+COMMAND=PREDEX_LIBRARY
+FILE_PATH=/Users/yroma/Documents/Just Food/.gradle/caches/modules-2/files-2.1/com.bottlerocketstudios/vault/1.4.0/9e5bfa3386e5940d17ec54dba5d554ec3cbe214/vault-1.4.0.jar
+FILE_HASH=09e5bfa3386e5940d17ec54dba5d554ec3cbe214
+BUILD_TOOLS_REVISION=25.0.2
+JUMBO_MODE=false
+OPTIMIZE=true
+MULTI_DEX=true

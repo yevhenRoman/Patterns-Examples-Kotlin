@@ -1,0 +1,7 @@
+COMMAND=PREDEX_LIBRARY
+FILE_PATH=/Users/yroma/Documents/Just Food/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-jackson/2.2.0/a8565d80d994f312b4f146de4d75f7626416a1f0/converter-jackson-2.2.0.jar
+FILE_HASH=a8565d80d994f312b4f146de4d75f7626416a1f0
+BUILD_TOOLS_REVISION=25.0.2
+JUMBO_MODE=false
+OPTIMIZE=true
+MULTI_DEX=true
