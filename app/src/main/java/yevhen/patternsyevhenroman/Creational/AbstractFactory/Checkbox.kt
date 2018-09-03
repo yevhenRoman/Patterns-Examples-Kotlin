@@ -1,5 +1,5 @@
 package yevhen.patternsyevhenroman.Creational.AbstractFactory
 
-interface Button {
+interface Checkbox {
     fun paint()
 }
