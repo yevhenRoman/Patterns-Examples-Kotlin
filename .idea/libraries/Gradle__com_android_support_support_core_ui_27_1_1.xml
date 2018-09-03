@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.android.support:support-core-ui-27.1.1">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../Just Food/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/65e18bcd4aecd78ee00682fe47697714/res" />
+      <root url="jar://$PROJECT_DIR$/../Just Food/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/65e18bcd4aecd78ee00682fe47697714/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../Just Food/.gradle/caches/modules-2/files-2.1/com.android.support/support-core-ui/27.1.1/266c369a3227be5afec33e11c964472269ff2a7c/support-core-ui-27.1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
